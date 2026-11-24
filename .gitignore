@@ -1,0 +1,15 @@
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto generated files
+/.quarto/
+/_site/
+**/*_cache/
+**/*.quarto_ipynb
+
+# Local environment variables
+.Renviron
+.env
