@@ -1,7 +1,24 @@
 ---
-title: "Portfolio"
+title: "Alex Paliouras"
+subtitle: "I/O Psychology | Methodology & Statistics | Data Science"
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am an Industrial and Organizational Psychology practitioner currently specializing in methodology and statistics. I am interested in applying statistical and evidence-based methods to better understand human behaviour, organizations and their workforce.
+
+My applied experience revolves around organizational data science, people analytics, psychometrics and personnel selection strategy, reflecting my interest in the intersection of Industrial and Organizational Psychology and statistical methodology. My broader professional interests extend to other psychological subdisciplines and the application of statistical and data science methods across diverse research domains.
+
+## Research Interests
+
+- Social network analysis and Relational Event Models
+- Machine learning 
+- Algorithm use in personnel assessment
+- People analytics and organizational research
+- Applied research designs and reproducibility
+
+## Details
+
+This portfolio provides an overview of my academic background, professional experience and related projects.
+
+[About me](about.qmd) · [Projects](projects.qmd) 

@@ -5,19 +5,37 @@ project:
 website:
   title: "Alex Paliouras"
   site-url: https://alexpaliouras.github.io/
+
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
+      - href: projects.qmd
+        text: Projects
+
+    right:
+      - icon: github
+        href: https://github.com/AlexPaliouras
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/alex-paliouras-324a8227b/
+        aria-label: LinkedIn
+      - text: "ORCID"
+        href: https://orcid.org/my-orcid?orcid=0009-0002-9266-6805
+        aria-label: ORCID
+
+  page-footer:
+    left: "Alex Paliouras"
+    right: "Portfolio Mlarpis 2026"
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: zephyr
+      dark: darkly
     css: styles.css
-    toc: true
+    toc: false
 
-editor: visual
+editor: source

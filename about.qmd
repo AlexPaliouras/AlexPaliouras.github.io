@@ -2,4 +2,55 @@
 title: "About"
 ---
 
-About this site
+## Education
+
+### [Utrecht University](https://www.uu.nl/en/masters/methodology-statistics-and-data-science/study-programme)
+
+**MSc Methodology, Statistics and Data Science**\
+2025–2027 (ongoing)
+
+### [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences)
+
+**MSc Work and Organizational Psychology**\
+2024–2025
+
+**BSc Psychology**\
+2021–2024
+
+## Professional Experience
+
+### Research Assistant \| [Wageningen University & Research](https://www.wur.nl/en)
+
+2026
+
+Qualitative research on supply chain barriers to the implementation of circularity solutions in the Dutch pharmaceutical industry, as part of the ReDOSE research project of the Centre for Unusual Collaborations (CUCo).
+
+Project details: [Center for Unusual Collaborations - REDOSE](https://unusualcollaborations.ewuu.nl/spark-teams/)
+
+### Research Assistant \| [Utrecht University](https://www.uu.nl/en)
+
+2026
+
+Applied research and methodological evaluation of AI-based personnel selection tools, focusing on ranking and classification accuracy, fairness and interpretability.
+
+Project: [AcademicTransfer – CV Priority Sorter](https://corporate.academictransfer.com/en/members/cv-priority-sorter/)
+
+### Global Talent Acquisition Analyst \| [ASML](https://www.asml.com/en)
+
+2025
+
+Organizational research, statistical consultation and workforce analytics within Global Talent Acquisition. Areas of work included evidence-based personnel selection, employee retention, onboarding evaluation and talent intelligence.
+
+## Skills
+
+- **Statistical Methodology and Data Science:** Statistical modelling, multivariate analysis, machine learning, network analysis, simulation studies and data visualization.
+
+- **Research Methods:** Independent research, quantitative and qualitative research design, data collection, statistical analysis, interpretation and reproducible research.
+
+- **Personnel Selection Algorithms:** Development and optimization of predictive algorithms for personnel selection based on pre-employment assessments and post-hire performance criteria.
+
+- **Psychometric Testing:** Development, validation and administration of psychometric instruments for personnel trait measurement and assessment.
+
+- **Structured Interviewing:** Trained in administering structured interviews in personnel selection and psychological counselling contexts.
+
+- **Software:** R/RStudio, Python, IBM SPSS Statistics, Microsoft Office, Qualtrics (survey development and JavaScript customization), Workday.
