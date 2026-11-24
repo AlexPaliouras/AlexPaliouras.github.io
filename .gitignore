@@ -7,9 +7,12 @@
 # Quarto generated files
 /.quarto/
 /_site/
+/about_files/
+/index_files/
 **/*_cache/
 **/*.quarto_ipynb
 
 # Local environment variables
 .Renviron
 .env
+
